@@ -1068,8 +1068,6 @@ Text GLabel 2000 1900 2    50   Input ~ 0
 TX_CH0
 Text GLabel 4000 1350 0    50   Input ~ 0
 TX_CH7
-Text GLabel 4000 1450 0    50   Input ~ 0
-TX_CH6
 Text GLabel 4000 2000 0    50   Input ~ 0
 TX_CH5
 Text GLabel 4000 2100 0    50   Input ~ 0
@@ -1112,8 +1110,6 @@ Text GLabel 4000 5000 0    50   Input ~ 0
 RX_CH5
 Text GLabel 4000 4450 0    50   Input ~ 0
 RX_CH6
-Text GLabel 4000 4350 0    50   Input ~ 0
-RX_CH7
 $Comp
 L Connector:Screw_Terminal_01x10 J5
 U 1 1 61272991
@@ -1159,8 +1155,6 @@ Text GLabel 9200 5900 0    50   Input ~ 0
 RX0
 Text GLabel 4600 1350 2    50   Input ~ 0
 TX7
-Text GLabel 4600 1450 2    50   Input ~ 0
-TX6
 Text GLabel 4600 2000 2    50   Input ~ 0
 TX5
 Text GLabel 4600 2100 2    50   Input ~ 0
@@ -1173,8 +1167,6 @@ Text GLabel 4600 3300 2    50   Input ~ 0
 TX1
 Text GLabel 4600 3400 2    50   Input ~ 0
 TX0
-Text GLabel 4600 4350 2    50   Input ~ 0
-RX7
 Text GLabel 4600 4450 2    50   Input ~ 0
 RX6
 Text GLabel 4600 5000 2    50   Input ~ 0
@@ -1221,14 +1213,10 @@ F 3 "" H 2100 7600 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2100 7600 2100 7550
-Text GLabel 1800 7150 1    50   Input ~ 0
+Text GLabel 1950 7150 1    50   Input ~ 0
 TX7
-Text GLabel 2400 7150 1    50   Input ~ 0
-RX7
-Text GLabel 2250 7150 1    50   Input ~ 0
-TX6
 Text GLabel 2100 7150 1    50   Input ~ 0
-RX6
+RX7
 $Comp
 L my_lib:ESDA17-5SC6 U4
 U 1 1 618DF4C9
@@ -1240,13 +1228,13 @@ F 3 "" H 3150 7350 50  0001 C CNN
 	1    3150 7350
 	1    0    0    -1  
 $EndComp
-Text GLabel 3450 7150 1    50   Input ~ 0
-TX4
 Text GLabel 3300 7150 1    50   Input ~ 0
+TX4
+Text GLabel 3450 7150 1    50   Input ~ 0
 RX4
-Text GLabel 3900 7150 1    50   Input ~ 0
+Text GLabel 4050 7150 1    50   Input ~ 0
 TX3
-Text GLabel 4500 7150 1    50   Input ~ 0
+Text GLabel 4200 7150 1    50   Input ~ 0
 RX3
 $Comp
 L my_lib:ESDA17-5SC6 U5
@@ -1272,13 +1260,11 @@ F 3 "" H 4200 7600 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4200 7600 4200 7550
-Text GLabel 1950 7150 1    50   Input ~ 0
-TX5
-Text GLabel 2850 7150 1    50   Input ~ 0
+Text GLabel 3150 7150 1    50   Input ~ 0
 RX5
 Text GLabel 4350 7150 1    50   Input ~ 0
 TX2
-Text GLabel 4200 7150 1    50   Input ~ 0
+Text GLabel 4500 7150 1    50   Input ~ 0
 RX2
 $Comp
 L my_lib:ESDA17-5SC6 U14
@@ -1317,14 +1303,6 @@ F 3 "" H 3150 7600 50  0001 C CNN
 	1    3150 7600
 	1    0    0    -1  
 $EndComp
-Text GLabel 4050 7150 1    50   Input ~ 0
-TX1
-Text GLabel 4900 7150 1    50   Input ~ 0
-RX1
-Text GLabel 5350 7150 1    50   Input ~ 0
-TX0
-Text GLabel 5200 7150 1    50   Input ~ 0
-RX0
 $Comp
 L Connector:Conn_01x06_Male J2
 U 1 1 61B3DBB8
@@ -1639,4 +1617,26 @@ F 3 "" H 8200 4100 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	8200 4100 8200 3950
+Text GLabel 4000 4350 0    50   Input ~ 0
+RX_CH7
+Text GLabel 4600 4350 2    50   Input ~ 0
+RX7
+Text GLabel 4000 1450 0    50   Input ~ 0
+TX_CH6
+Text GLabel 4600 1450 2    50   Input ~ 0
+TX6
+Text GLabel 2250 7150 1    50   Input ~ 0
+TX6
+Text GLabel 3000 7150 1    50   Input ~ 0
+TX5
+Text GLabel 2400 7150 1    50   Input ~ 0
+RX6
+Text GLabel 5050 7150 1    50   Input ~ 0
+TX1
+Text GLabel 5200 7150 1    50   Input ~ 0
+RX1
+Text GLabel 5350 7150 1    50   Input ~ 0
+TX0
+Text GLabel 5500 7150 1    50   Input ~ 0
+RX0
 $EndSCHEMATC
