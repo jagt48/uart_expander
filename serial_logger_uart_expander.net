@@ -1,8 +1,8 @@
 (export (version D)
   (design
-    (source /home/joseph/Documents/workspace.kicad/serial_logger/serial_logger_uart_expander/serial_logger_uart_expander.sch)
-    (date "Tue 07 Sep 2021 06:29:35 PM CDT")
-    (tool "Eeschema 5.1.7-a382d34a8~88~ubuntu18.04.1")
+    (source /home/joseph/Documents/workspace.kicad/uart_expander/serial_logger_uart_expander.sch)
+    (date "Tue 14 Sep 2021 10:45:47 PM CDT")
+    (tool "Eeschema 5.1.10-88a1d61d58~90~ubuntu20.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title)
@@ -31,6 +31,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6115ABB0))
@@ -38,6 +40,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6115BF72))
@@ -45,6 +49,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 61169CEA))
@@ -58,6 +64,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 611D51F1))
@@ -65,6 +73,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 611D51F9))
@@ -72,6 +82,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 611D5208))
@@ -79,6 +91,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 611D520E))
@@ -92,6 +106,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 612150DB))
@@ -99,6 +115,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 612150E3))
@@ -106,6 +124,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 612150F1))
@@ -113,6 +133,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 612150F7))
@@ -126,6 +148,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6121DA86))
@@ -133,6 +157,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6121DA8E))
@@ -140,6 +166,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6121DA9C))
@@ -147,6 +175,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6121DAA2))
@@ -166,6 +196,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EF0D))
@@ -173,6 +205,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EF15))
@@ -180,6 +214,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EF52))
@@ -187,6 +223,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EF58))
@@ -200,6 +238,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EF72))
@@ -207,6 +247,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EF7A))
@@ -214,6 +256,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EF88))
@@ -221,6 +265,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EF8E))
@@ -234,6 +280,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EFB0))
@@ -241,6 +289,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EFB8))
@@ -248,6 +298,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EFC6))
@@ -255,6 +307,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EFCC))
@@ -268,6 +322,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EFEC))
@@ -275,6 +331,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124EFF4))
@@ -282,6 +340,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124F002))
@@ -289,6 +349,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6124F008))
@@ -303,6 +365,8 @@
       (value 10k)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C25804))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6116A90E))
@@ -310,6 +374,8 @@
       (value 1k5)
       (footprint Resistor_SMD:R_0603_1608Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C22843))
       (libsource (lib Device) (part R_US) (description "Resistor, US symbol"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6132C2C5))
@@ -317,6 +383,8 @@
       (value BLUE)
       (footprint LED_SMD:LED_0603_1608Metric_Castellated)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") "C72041 "))
       (libsource (lib Device) (part LED) (description "Light emitting diode"))
       (sheetpath (names /) (tstamps /))
       (tstamp 61379E74))
@@ -390,6 +458,8 @@
       (value 10u)
       (footprint Capacitor_SMD:C_0805_2012Metric)
       (datasheet ~)
+      (fields
+        (field (name "LCSC Part #") C15850))
       (libsource (lib Device) (part C) (description "Unpolarized capacitor"))
       (sheetpath (names /) (tstamps /))
       (tstamp 6136BA4A)))
@@ -572,7 +642,7 @@
     (library (logical RF)
       (uri /usr/share/kicad/library/RF.lib))
     (library (logical my_lib)
-      (uri /home/joseph/Documents/workspace.kicad/serial_logger/serial_logger_uart_expander/my_lib.lib)))
+      (uri /home/joseph/Documents/workspace.kicad/uart_expander/my_lib.lib)))
   (nets
     (net (code 1) (name TX6)
       (node (ref J5) (pin 4))
