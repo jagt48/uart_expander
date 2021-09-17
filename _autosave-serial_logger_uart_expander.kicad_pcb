@@ -11,7 +11,7 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal)
+    (0 F.Cu signal hide)
     (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
@@ -84,7 +84,7 @@
       (psnegative false)
       (psa4output false)
       (plotreference true)
-      (plotvalue true)
+      (plotvalue false)
       (plotinvisibletext false)
       (padsonsilk false)
       (subtractmaskfromsilk true)
@@ -92,7 +92,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "uart_expander-gerbers/"))
+      (outputdirectory "uart_expander-assembly/"))
   )
 
   (net 0 "")
@@ -3649,7 +3649,7 @@
   (segment (start 160.9852 98.3996) (end 166.07799 98.3996) (width 0.4) (layer F.Cu) (net 57))
   (segment (start 166.07799 98.3996) (end 166.2684 98.59001) (width 0.4) (layer F.Cu) (net 57))
 
-  (zone (net 5) (net_name GND) (layer B.Cu) (tstamp 61419FE8) (hatch edge 0.508)
+  (zone (net 5) (net_name GND) (layer B.Cu) (tstamp 6144D130) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -4170,7 +4170,7 @@
       )
     )
   )
-  (zone (net 33) (net_name VBUS) (layer F.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 33) (net_name VBUS) (layer F.Cu) (tstamp 6144D12D) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -4560,7 +4560,7 @@
       )
     )
   )
-  (zone (net 2) (net_name +3V3) (layer F.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 2) (net_name +3V3) (layer F.Cu) (tstamp 6144D12A) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))

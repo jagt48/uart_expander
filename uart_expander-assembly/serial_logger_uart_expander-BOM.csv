@@ -1,0 +1,14 @@
+Designator,Quantity,Value,Footprint,LCSC Part Number
+"C1, ",1,10u,0805,C15850
+"D1, ",1,BLUE,0603,C72041
+"J1, J6, ",2,Screw_Terminal_01x10,TerminalBlock_TE-Connectivity:TerminalBlock_TE_1-282834-0_1x10_P2.54mm_Horizontal,
+"J2, ",1,CN6,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,
+"J3, ",1,CN8,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,
+"J4, ",1,CN5,Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical,
+"J5, ",1,CN9,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,
+"Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15, Q16, ",16,2N7002,SOT-23-3,C8545
+"R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, ",32,10k,0603,C25804 
+"R33, ",1,1k5,0603,C22843 
+"U1, U2, ",2,M74HC4851,TSSOP-16,
+"U3, ",1,NRF24L01_Breakout,RF_Module:nRF24L01_Breakout,
+"U4, U5, U6, U7, ",4,ESDA17-5SC6,my_lib:ESDA17-5SC6_SOT23-6L,
